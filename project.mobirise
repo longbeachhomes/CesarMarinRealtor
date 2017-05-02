@@ -91,7 +91,7 @@
               "size": 250
             }
           },
-          "title": "IT WAS A PLEASURE MEETING YOU!",
+          "title": "It was a pleasure meeting you!",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -169,8 +169,8 @@
           },
           "title3": "No Money For Down Payment?",
           "subtitle3": "Don't let that stop you from buying a home",
-          "caption3": "There are litterally dozens of programs for first-time and repeat home buyers that are there waiting to be used. Learn how you can take advantage of them.&nbsp;",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption3": "There are many programs for first-time and repeat home buyers that are there waiting to be used. Learn how you can take advantage of them.&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"http://cesarmarin.irvine.carringtonrealestate.com/contactus/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ASK ME ABOUT</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/tax-help-screen-600x274.jpg",
@@ -185,7 +185,7 @@
           },
           "title4": "Paying Too Much Taxes?",
           "subtitle4": "Or not getting enough refund?",
-          "caption4": "Learn how you can save money when paying your taxes or to get the maximum refund by implementing government &nbsp;rules that work on your benefit.",
+          "caption4": "Learn how you can save money when paying your taxes or how to get the maximum refund by applying government &nbsp;rules that work on your benefit.",
           "button4": "<a data-app-btn=\"true\" href=\"http://realestateandtaxhelp.com/taxhelp2/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TAX HELP</a>",
           "media5": {
             "image": {
@@ -219,7 +219,7 @@
           "_name": "testimonials2",
           "testimonial": [
             {
-              "text": "<p>\"I just moved into the house and feel as I expected. The kitchen is quite roomy and the children rooms big enough. Thank you for your help.\"&nbsp;</p>",
+              "text": "<p>\"We just moved into our house and feel as we expected. The kitchen is quite roomy and the children rooms are big enough. Thank you for your help.\"&nbsp;</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -244,7 +244,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.2,
@@ -273,7 +273,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#7c6254",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -342,7 +342,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright © 2017 - 2020 Carrington &amp; RETH www.realestateandtaxhelp.com. I take your privacy very seriously. I never ever share your email address with absolutely no third party. It is used only by me to communicate with you very sparingly. I hate spamming. Read my privacy policy here.  If you have any questions or comments please <b><a href=\"http://cesarmarin.irvine.carringtonrealestate.com/contactus/\" target=\"_blank\">contact me</a></b>. Design by CM Design. Carrington CalBRE# 01854071/CalBRE#01274794."
+          "text": "Copyright © 2017 - 2020 Carrington/Cesar Marin. I take your privacy very seriously. I never ever share your email address with absolutely no third party. It is used only by me and only me to communicate with you very sparingly. As you, I hate spamming.  If you have any questions or comments please <b><a href=\"http://cesarmarin.irvine.carringtonrealestate.com/contactus/\" target=\"_blank\">contact me</a></b>. Carrington CalBRE# 01854071/Cesar Marin CalBRE#01274794."
         }
       ]
     },
@@ -408,7 +408,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright © 2017 - 2020 Carrington/Cesar Marin. I take your privacy very seriously. I never ever share your email address with absolutely no third party. It is used only by me and only me to communicate with you very sparingly. As you, I hate spamming.  If you have any questions or comments please <b><a href=\"http://cesarmarin.irvine.carringtonrealestate.com/contactus/\" target=\"_blank\">contact me</a></b>. Carrington CalBRE# 01854071/Cesar Marin CalBRE#01274794."
         }
       ]
     }

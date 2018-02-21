@@ -411,7 +411,16 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#form1-8 .form-control-label {
+  color: #232323;
+}
+#form1-8 SMALL {
+  color: #28324e;
+}
 #social-buttons3-3 .mbr-section-title,
 #social-buttons3-3 .btn-social {
   color: #fff;
+}
+#contacts1-4 P {
+  color: #90a878;
 }

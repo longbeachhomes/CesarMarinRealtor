@@ -268,7 +268,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#c0a375",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -305,7 +305,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>",
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
@@ -333,7 +333,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#61471e",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -344,7 +344,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE!"
+          "text": "SHARE THIS INFO!"
         },
         {
           "_tags": [
@@ -385,7 +385,7 @@
           "text3": "<p><strong>Links</strong><br>\n<a href=\"index.html#form1-8\">Know your home current value</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://www.youtube.com/watch?v=mLeIky_v2Yc\" target=\"_blank\">Online Home Buyer Seminar-Narrated</a><br>\n<a href=\"index.html#form1-8\">Contact Me</a><a href=\"http://cesarmarin.irvine.carringtonrealestate.com/community/\" target=\"_blank\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>",
           "_styles": {
             "P": {
-              "color": "#90a878"
+              "color": "#ffffff"
             }
           }
         },
@@ -407,7 +407,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright © 2017 - 2020 MGM Lenders, Inc. &amp; Cesar Marin. I take your privacy very seriously. I never ever share your email address with absolutely no third party. It is used only by me to communicate with you very sparingly. I hate spamming. Read my privacy policy here.  If you have any questions or comments please <b>contact me</b>. Design by CM Design. MGM Lenders CalBRE# 01443736  /Cesar Marin CalBRE#01274794."
+          "text": "Copyright © 2017 - 2020 MGM Lenders, Inc. &amp; Cesar Marin. I take your privacy very seriously. I never ever share your email address with absolutely no third party. It is used only by me to communicate with you very sparingly. I hate spamming. Read my privacy policy here.  If you have any questions or comments please <b><a href=\"index.html#form1-8\" class=\"text-warning\">contact me</a></b>. Design by CM Design. MGM Lenders CalBRE# 01443736  /Cesar Marin CalBRE#01274794."
         }
       ]
     },
@@ -453,7 +453,12 @@
           },
           "text1": "<strong>Address</strong><br>1912 Broadway Suite 102<br>Santa Ana CA 92706",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: <a href=\"mailto: caesarmarin@gmail.com\">caesarmarin@gmail.com</a></p>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"index.html#form1-8\">Know your home current value</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://www.youtube.com/watch?v=mLeIky_v2Yc\" target=\"_blank\">Online Home Buyer Seminar-Narrated</a><br>\n<a href=\"index.html#form1-8\">Contact Me</a><a href=\"http://cesarmarin.irvine.carringtonrealestate.com/community/\" target=\"_blank\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"index.html#form1-8\">Know your home current value</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://www.youtube.com/watch?v=mLeIky_v2Yc\" target=\"_blank\">Online Home Buyer Seminar-Narrated</a><br>\n<a href=\"index.html#form1-8\">Contact Me</a><a href=\"http://cesarmarin.irvine.carringtonrealestate.com/community/\" target=\"_blank\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
@@ -473,7 +478,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright © 2017 - 2020 MGM Lenders, Inc. &amp; Cesar Marin. I take your privacy very seriously. I never ever share your email address with absolutely no third party. It is used only by me to communicate with you very sparingly. I hate spamming. Read my privacy policy here.  If you have any questions or comments please <b><a href=\"index.html#form1-8\" class=\"text-warning\">contact me</a></b>. Design by CM Design. MGM Lenders CalBRE# 01443736  /Cesar Marin CalBRE#01274794."
         }
       ]
     }
